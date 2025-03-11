@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RealtimeChatApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="text">Text...</string>
+    <string name="send">Send</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="you_have_account">You have account?</string>
+    <string name="users">Users</string>
+    <string name="this_field_can_t_be_blank">*This field can\'t be blank</string>
+    <string name="you_don_t_have_an_account">You don\'t have an account? </string>
+</resources>
